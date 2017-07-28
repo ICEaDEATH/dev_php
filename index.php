@@ -1,6 +1,6 @@
 <?php
 
-echo "Helloaas <br>";
+echo "Hello <br>";
 $mews = "black";
 echo "Hi, ", $mews;
 echo <<<END
